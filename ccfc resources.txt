@@ -1,0 +1,5 @@
+https://www.bennadel.com/blog/1171-cfhttpsession-cfc-for-multi-cfhttp-requests-with-maintained-session.htm
+
+https://mjddesign.wordpress.com/2012/04/24/coldfusion-cfc-remote-access-via-cfhttp/
+
+http://help.adobe.com/en_US/ColdFusion/9.0/Developing/WSc3ff6d0ea77859461172e0811cbec1529c-7ffb.html
